@@ -1,8 +1,3 @@
-# ESP32-TensorFlow-Lite-Sample
-Sample project for deploying TensorFlow Lite models on the ESP32 using Platformio
+# TFMicro_esphome
+Esphome wrapper for TensorFlow Micro library, it is limited to the ESP32 boards.
 
-Deploy to ESP32 using:
-```platformio run -t upload --upload-port /dev/ttyUSB0```
-
-Access Serial using:
-```screen /dev/ttyUSB0 115200```
